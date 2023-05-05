@@ -1,6 +1,6 @@
 Hi,
 
-this is my Dell EMC-self at Dell Technologies on github.
+this is my DellEMC-self at Dell Technologies on github.
 You can reach me via a personal message, or through the well-known channels.
 
 Bjoern Schoof, Dell Technologies
